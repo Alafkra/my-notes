@@ -5,13 +5,13 @@ I am Zaid Ayasrah , work as freelance automation engineer in charge of PLC & Sca
 
 “Difficult to make even small changes”
 
-“Breaking functionality of the software by making changes”
+**Breaking functionality of the software by making changes**
 
 “Introducing a new bug by fixing another one”
 
 “Implementing code that is unnecessary”
 
-“Almost impossible to add a new feature because of complicated code”
+*Almost impossible to add a new feature because of complicated code*
 
 “The never-shipping product”
 
@@ -26,3 +26,4 @@ Every programmer is a designer.
 Remember: the purpose of the software is not to show off how intelligent you are.
 
 Don’t Ask Questions… Ask For Help.
+[Test](https://www.example.com)
